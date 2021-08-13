@@ -4,4 +4,4 @@ I'm currently studying in Institut Teknologi Bandung, majoring in Informatics En
 My best interest is Game and Web Development.
 I've not yet explored much, but will continue to explore more soon!
 
-LinkedIn : https://www.linkedin.com/in/billy-julius-4877121ab/
+LinkedIn : https://www.linkedin.com/in/billy-julius
